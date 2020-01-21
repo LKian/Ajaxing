@@ -1,18 +1,10 @@
 # README
 
 <pre>
-*-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-*
-|                                                             |
-|   LLL            EEEEEEEEEE    AAAAAAAAAA    HHH      HHH   |
-|   LLL           EEEEEEEEEEE   AAAAAAAAAAAA   HHH      HHH   |
-|   LLL           EEE           AAA      AAA   HHH      HHH   |
-|   LLL           EEEEEEEE      AAAAAAAAAAAA   HHHHHHHHHHHH   |
-|   LLL           EEE           AAA      AAA   HHH      HHH   |
-|   LLL           EEE           AAA      AAA   HHH      HHH   |
-|   LLLLLLLLLLL   EEEEEEEEEEE   AAA      AAA   HHH      HHH   |
-|    LLLLLLLLLL    EEEEEEEEEE   ASA      AAA   HHH      HHH   |
-|                                                             |
-*-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-*</pre>
+ __    ___   __   _  _ 
+(  )  (  _) (  ) ( )( )
+ )(__  ) _) /__\  )__( 
+(____)(___)(_)(_)(_)(_)</pre>
 
 ## Styling
 
