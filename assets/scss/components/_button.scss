@@ -1,0 +1,75 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button component.
+// -----------------------------------------------------------------------------
+
+@import "../utilities/variables";
+
+.button {
+  text-transform: capitalize;
+  font-size: 1rem;
+  display: flex;
+  margin: 0.25rem 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-width: 2px;
+  border-style: solid;
+  outline: none;
+  transition: all 0.2s ease;
+
+  &:hover,
+  &:active,
+  &:focus {
+    text-decoration: none;
+    border-color: $color-primary;
+    background-color: $color-primary;
+  }
+
+  @media (min-width: 551px) {
+    max-width: 200px;
+  }
+}
+
+.button--primary {
+  background-color: $color-secondary;
+  color: $color-primary;
+  border-color: $color-primary;
+}
+
+.button--primary {
+  &:hover,
+  &:active,
+  &:focus {
+    background-color: $color-primary;
+    color: $color-secondary;
+  }
+}
+
+.button--secondary {
+  background-color: $color-primary;
+  color: $color-secondary;
+  border-color: $color-primary;
+
+  &:hover,
+  &:active,
+  &:focus {
+    background-color: $color-secondary;
+    color: $color-primary;
+    border-color: $color-primary;
+  }
+}
+
+.button--alternative {
+  background-color: transparent;
+  color: $color-primary;
+  border: 2px solid $color-primary;
+
+  &:hover,
+  &:active,
+  &:focus {
+    background-color: $color-primary;
+    color: $color-white;
+    border-color: darken($color: $color-primary, $amount: 40%);
+  }
+}

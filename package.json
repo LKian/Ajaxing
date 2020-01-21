@@ -1,0 +1,23 @@
+{
+  "name": "leah_kahwadjian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "##"
+  },
+  "keywords": [
+    "leahk",
+    "mockup"
+  ],
+  "author": "LK",
+  "license": "ISC",
+  "homepage": "https://leahkahwadjian.com",
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}

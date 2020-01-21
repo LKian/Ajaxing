@@ -1,0 +1,41 @@
+@import "../utilities/variables";
+
+p {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0.5rem 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+h1,
+h3 {
+  color: $color-primary;
+}
+
+h2,
+h4 {
+  color: $color-primary;
+}
+
+i {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

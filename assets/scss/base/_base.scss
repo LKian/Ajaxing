@@ -1,0 +1,23 @@
+@import "../utilities/variables";
+
+.section,
+.header,
+.footer {
+  width: 100%;
+}
+
+.section {
+  padding: 25px 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 25px 0;
+}
+
+.section-subheading {
+  text-align: center;
+  color: $color-primary;
+  margin-bottom: 15px;
+}

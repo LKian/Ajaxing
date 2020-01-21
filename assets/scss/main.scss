@@ -1,0 +1,15 @@
+@charset 'UTF-8';
+
+// PARTIALS
+@use "utilities/variables";
+@use "vendor/normalize";
+@use "components/button";
+@use "base/base";
+@use "base/fonts";
+@use "layout/home.scss";
+
+// FONTAWESOME
+@import "vendor/fontawesome/fontawesome.scss";
+@import "vendor/fontawesome/brands.scss";
+@import "vendor/fontawesome/solid.scss";
+@import "vendor/fontawesome/regular.scss";
